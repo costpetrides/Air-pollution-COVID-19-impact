@@ -7,4 +7,4 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 
 --------
 
-We use open data from [Hellenic Ministry of Environment and Energy](https://ypen.gov.gr/perivallon/poiotita-tis-atmosfairas/dedomena-metriseon-atmosfairikis-rypansis/)
+We use open Air Pollutionopen data from [Hellenic Ministry of Environment and Energy](https://ypen.gov.gr/perivallon/poiotita-tis-atmosfairas/dedomena-metriseon-atmosfairikis-rypansis/)
