@@ -19,3 +19,8 @@ We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and
    - $ΑΣ_{2.5}$
    -  $ΑΣ_{10}$
   
+  3. Thrakomakedones Station
+    - O_{3}$
+    - $ΑΣ_{10}$
+    - $ΑΣ_{2.5}$
+    - $N0_{x}$
