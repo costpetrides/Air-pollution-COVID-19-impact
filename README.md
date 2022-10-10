@@ -15,3 +15,7 @@ We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and
   - $O_{3}$
   - $N0_{x}$
   
+  2. Aristotelous Station
+   - $ΑΣ_{2.5}$
+   -  $ΑΣ_{10}$
+  
