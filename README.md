@@ -8,3 +8,9 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 --------
 
 We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and Energy](https://ypen.gov.gr/perivallon/poiotita-tis-atmosfairas/dedomena-metriseon-atmosfairikis-rypansis/)
+
+1. Patision Station:
+  - S0_{2}
+  - CO
+  -
+  
