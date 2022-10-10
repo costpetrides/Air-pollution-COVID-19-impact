@@ -11,7 +11,7 @@ We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and
 
 1. Patision Station:
   - $S0_{2}$
-  - CO
+  - $CO$
   - $O_{3}$
   - $N0_{x}$
   
