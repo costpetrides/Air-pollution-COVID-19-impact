@@ -17,18 +17,13 @@ We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and
   - $ΑΣ_{10}$
  
 - Suburb -  Background: 
-  - $S0_{2}$
-  - $CO$
   - $O_{3}$
   - $N0_{x}$
   - $ΑΣ_{2.5}$
   - $ΑΣ_{10}$
   
 - Suburb - Industry
-  - $S0_{2}$
-  - $CO$
   - $O_{3}$
   - $N0_{x}$
   - $ΑΣ_{2.5}$
   - $ΑΣ_{10}$
-  
