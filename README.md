@@ -1,4 +1,4 @@
-# Air-pollution-COVID-19-impact
+# Air-pollution-COVID-19-impact (Bachelor's Thesis in Physics)
 
 Study the COVID 19 pandemic impact on Atmospheric pollution in selected areas of Athens (Greece). [Department of Physics NKUA](https://www.phys.uoa.gr)
 
