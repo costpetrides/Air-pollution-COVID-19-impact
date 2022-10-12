@@ -22,7 +22,7 @@ We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and
   - $ΑΣ_{2.5}$
   - $ΑΣ_{10}$
   
-- Suburb - Industry
+- Suburb - Industry:
   - $O_{3}$
   - $N0_{x}$
   - $ΑΣ_{2.5}$
