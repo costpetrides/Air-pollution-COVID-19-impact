@@ -9,18 +9,11 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 
 We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and Energy](https://ypen.gov.gr/perivallon/poiotita-tis-atmosfairas/dedomena-metriseon-atmosfairikis-rypansis/)
 
-1. Patision Station:
-  - $S0_{2}$
-  - $CO$
-  - $O_{3}$
-  - $N0_{x}$
+Μeasured atmospheric pollutants:
+- $S0_{2}$
+- $CO$
+- $O_{3}$
+- $N0_{x}$
+- $ΑΣ_{2.5}$
+- $ΑΣ_{10}$
   
-  2. Aristotelous Station
-   - $ΑΣ_{2.5}$
-   -  $ΑΣ_{10}$
-  
-  3. Thrakomakedones Station
-   - $O_{3}$
-   - $ΑΣ_{10}$
-   - $ΑΣ_{2.5}$
-   - $N0_{x}$
