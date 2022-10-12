@@ -10,10 +10,21 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 We use Air Pollution Measurement Data from [Hellenic Ministry of Environment and Energy](https://ypen.gov.gr/perivallon/poiotita-tis-atmosfairas/dedomena-metriseon-atmosfairikis-rypansis/)
 
 Μeasured atmospheric pollutants:
-- $S0_{2}$
-- $CO$
-- $O_{3}$
-- $N0_{x}$
-- $ΑΣ_{2.5}$
-- $ΑΣ_{10}$
+
+- Urban -Traffic:
+  - $S0_{2}$
+  - $CO$
+  - $O_{3}$
+  - $N0_{x}$
+  - $ΑΣ_{2.5}$
+  - $ΑΣ_{10}$
+ 
+ - Suburb -  Background: 
+  - $S0_{2}$
+  - $CO$
+  - $O_{3}$
+  - $N0_{x}$
+  - $ΑΣ_{2.5}$
+  - $ΑΣ_{10}$
   
+  - Suburb - Industry
