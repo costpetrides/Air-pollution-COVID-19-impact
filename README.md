@@ -20,15 +20,12 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 
 
 
-\subsection{Σταθμοί Μελέτης}
+## Σταθμοί Μελέτης:
 
-\begin{table}[h]
-\begin{center}
-\begin{tabular}{||c c c c c c c c||} 
- \hline
-Σταθμός & $SO_{2}$ & $ΝΟ_{2}$ & $ΝΟ$  & CO & $O_{3}$ &  $PM_{2.5}$ & $C_{6}H_{6}$\\ [0.5ex] 
- \hline  
- \hline
+
+
+| Σταθμός | $SO_{2}$ | $ΝΟ_{2}$ | $ΝΟ$  | CO & | O_{3}$ |  $PM_{2.5}$ | $C_{6}H_{6}$ | 
+----
 Πατησίων [A-K] & \Checkmark & \Checkmark & \Checkmark  & \Checkmark  & \Checkmark & - & - \\
  \hline
 Αθηνάς [A-K] & \Checkmark & \Checkmark & \Checkmark  & \Checkmark & \Checkmark & - & -\\
