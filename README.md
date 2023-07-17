@@ -22,15 +22,9 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 
 ## Σταθμοί Μελέτης:
 
-
-| Σταθμός | $SO_{2}$ | $ΝΟ_{2}$ | $ΝΟ$  | CO | $O_{3}$ |  $PM_{2.5}$ | $C_{6}H_{6}$ | 
-------
-|Πατησίων [A-K] & \Checkmark & \Checkmark & \Checkmark  & \Checkmark  & \Checkmark | - | - |
-------
-|Αθηνάς [A-K] | \Checkmark | \Checkmark | \Checkmark  | \Checkmark | \Checkmark | - | -|
-------
-|Γεωπονικής [Π-Β] | - | \Checkmark | \Checkmark  | \Checkmark  | \Checkmark | - | -|
-------
+1. Πατησίων
+2. Αθηνάς 
+3. Γεωπονικής 
 
 
 Eπιλέξαμε τους πιο πάνω σταθμούς, καθώς αυτοί κατέγραψαν ένα ικανό πλήθος μετρήσεων για την περίοδο ενδιαφέροντος και βρίσκονται στο κέντρο της Αθήνας όπου επηρεάζεται σημαντικά από την κυκλοφορία.
