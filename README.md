@@ -6,6 +6,7 @@ Study the COVID 19 pandemic impact on Atmospheric pollution in selected areas of
 The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has resulted in the reduction of anthropogenic emission sources to a great extent. This study aims to highlight  the impact of the COVID-19 pandemic on atmospheric pollution.  The pandemic was the most efficient simulation of  anthropogenic pollutants reduction. 
 
 -----
+\begin{document}
 \section{Εισαγωγή}
 Πραγματοποιείται μία σύντομή παρουσίαση και ανάλυση της Ατμοσφαιρικής ρύπανσης στην περιοχή της Αθήνας για την περίοδο του Lockdown (22 Mαρτίου - 4 Μαΐου 2020).
 
@@ -44,3 +45,4 @@ Eπιλέξαμε τους πιο πάνω σταθμούς, καθώς αυτο
  \item[*] Δεν υπάρχουν επαρκή δεδομένα για το είδος των αιωρούμενων σωματιδίων στην περίοδο ενδιαφέροντος. 
  \item[*] Στους σταθμούς που καταγράφονται τα $PM_{2,5}$ δεν υπάρχουν δεδομένα για την περίοδο του πρώτου Lockdown. 
 \end{itemize}
+\end{document}
