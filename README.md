@@ -13,11 +13,11 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 ## Διαστήματα Μελέτης:
 
 Επιλέγουμε το πρώτο  Lockdown καθώς σε αυτό παρατηρήθηκε μείωση κυκλοφορίας 49.5% σε σχέση με τον αντίστοιχο μήνα του 2019 στο κέντρο της Αθήνας. Επομένως διακρίνουμε τις εξής περιόδους.\\
-\begin{itemize}
- \item[1.] Pre Lockdown: 1-22 Μαρτίου 
- \item[2.]  Lockdown: 22-4 Μαΐου 
- \item[3.] Post Lockdown: 4-31 Μαΐου
-\end{itemize}
+
+1. Pre Lockdown: 1-22 Μαρτίου 
+2.  Lockdown: 22-4 Μαΐου 
+3. Post Lockdown: 4-31 Μαΐου
+
 
 
 \subsection{Σταθμοί Μελέτης}
