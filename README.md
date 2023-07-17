@@ -24,7 +24,7 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 
 
 
-| Σταθμός | $SO_{2}$ | $ΝΟ_{2}$ | $ΝΟ$  | CO & | O_{3}$ |  $PM_{2.5}$ | $C_{6}H_{6}$ | 
+| Σταθμός | $SO_{2}$ | $ΝΟ_{2}$ | $ΝΟ$  | CO | $O_{3}$ |  $PM_{2.5}$ | $C_{6}H_{6}$ | 
 ----
 Πατησίων [A-K] & \Checkmark & \Checkmark & \Checkmark  & \Checkmark  & \Checkmark & - & - \\
  \hline
