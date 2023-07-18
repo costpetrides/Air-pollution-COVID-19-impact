@@ -22,9 +22,9 @@ The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has res
 
 ## Σταθμοί Μελέτης:
 
-1. Πατησίων
-2. Αθηνάς 
-3. Γεωπονικής 
+1. Πατησίων  (-40.2% traffic reduction  at Patision)
+2. Αθηνάς  (-46.6% traffic reduction  at Leof. Panepistimiou and 42.7% at Leof. Stadiou)
+3. Γεωπονικής  
 
 
 Eπιλέξαμε τους πιο πάνω σταθμούς, καθώς αυτοί κατέγραψαν ένα ικανό πλήθος μετρήσεων για την περίοδο ενδιαφέροντος και βρίσκονται στο κέντρο της Αθήνας όπου επηρεάζεται σημαντικά από την κυκλοφορία.
