@@ -1,4 +1,5 @@
-# Air-pollution-COVID-19-impact  ID:(ATM922) <sub>Bachelor's Thesis in Physics)<sub> 
+# Air-pollution-COVID-19-impact  ID:(ATM922) 
+<sub>Bachelor's Thesis in Physics)<sub> 
 
 
 Study the COVID 19 pandemic impact on Atmospheric pollution in selected areas of Athens (Greece). [Department of Physics NKUA](https://www.phys.uoa.gr)
