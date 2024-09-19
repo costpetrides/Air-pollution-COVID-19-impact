@@ -1,7 +1,7 @@
 # Air-pollution-COVID-19-impact  
 
 
-Study the COVID 19 pandemic impact on Atmospheric pollution in selected areas of Athens (Greece). [Department of Physics NKUA](https://www.phys.uoa.gr)
+Study of the Impact of the COVID-19 Pandemic on Atmospheric Pollution in Selected Areas of Athens, Greece [Department of Physics NKUA](https://www.phys.uoa.gr)
 
 The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has resulted in the reduction of anthropogenic emission sources to a great extent. This study aims to highlight  the impact of the COVID-19 pandemic on atmospheric pollution.  The pandemic was a real  "simulation" of  anthropogenic pollutants reduction.
 
