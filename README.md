@@ -3,7 +3,7 @@
 
 Study of the Impact of the COVID-19 Pandemic on Atmospheric Pollution in Selected Areas of Athens, Greece [Department of Physics NKUA](https://www.phys.uoa.gr)
 
-The nationwide lockdown in Greece to flatten the pandemic COVID-19 curve has resulted in the reduction of anthropogenic emission sources to a great extent. This study aims to highlight  the impact of the COVID-19 pandemic on atmospheric pollution.  The pandemic was a real  "simulation" of  anthropogenic pollutants reduction.
+The nationwide lockdown in Greece, implemented to flatten the COVID-19 pandemic curve, resulted in a significant reduction of anthropogenic emission sources. This study aims to highlight the impact of the COVID-19 pandemic on atmospheric pollution. The pandemic served as a real-life "simulation" of reduced anthropogenic pollutant levels.
 
 -----
 # Eισαγωγή:
