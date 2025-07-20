@@ -8,8 +8,7 @@
 
 ##  Overview
 
-The nationwide lockdown in Greece, implemented to flatten the COVID-19 curve, led to a **significant reduction in anthropogenic emissions**.  
-This study investigates the **impact of the pandemic on atmospheric pollution levels**, using it as a **real-life "simulation"** of reduced human activity.
+The nationwide lockdown in Greece, implemented to flatten the COVID-19 curve, led to a **significant reduction in anthropogenic emissions**.  This study investigates the **impact of the pandemic on atmospheric pollution levels**, using it as a **real-life "simulation"** of reduced human activity.
 
 ---
 
