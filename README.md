@@ -49,8 +49,8 @@ The following air quality stations were selected for analysis:
 
 <table>
   <tr>
-    <td><img src="Figure/PAT(O3).png" alt="Figure 1" width="300"></td>
-    <td><img src="Figure/H_PAT(O3).png alt="Figure 2" width="300"></td>
+    <td><img src="Figures/PAT(O3).png" alt="Figure 1" width="300"></td>
+    <td><img src="Figures/H_PAT(O3).png alt="Figure 2" width="300"></td>
   </tr>
   <tr>
     <td align="center">Figure 1: Caption for first figure</td>
