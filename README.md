@@ -44,18 +44,7 @@ The following air quality stations were selected for analysis:
 - Central Athens locations, significantly affected by traffic emissions
 
 
----
-### Example Figures
 
-<table>
-  <tr>
-    <td><img src="Figures/PAT(O3).png" alt="Figure 1" width="300"></td>
-    <td><img src="Figures/H_PAT(O3).png alt="Figure 2" width="300"></td>
-  </tr>
-  <tr>
-    <td align="center">Figure 1: Caption for first figure</td>
-    <td align="center">Figure 2: Caption for second figure</td>
-  </tr>
-</table>
+
 
 
