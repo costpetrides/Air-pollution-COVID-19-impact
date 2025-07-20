@@ -1,8 +1,8 @@
 #  Air Pollution & COVID-19 Impact – Athens, Greece 🇬🇷
 
 **Study of the Impact of the COVID-19 Pandemic on Atmospheric Pollution in Selected Areas of Athens, Greece**  
- *Department of Physics, National and Kapodistrian University of Athens (NKUA)*  
- [www.phys.uoa.gr](https://www.phys.uoa.gr)
+ *Department of Physics, National and Kapodistrian University of Athens [(NKUA)](https://www.phys.uoa.gr)*  
+
 
 ---
 
