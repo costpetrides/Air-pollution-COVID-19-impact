@@ -1,31 +1,53 @@
-# Air-pollution-COVID-19-impact  
+#  Air Pollution & COVID-19 Impact – Athens, Greece 🇬🇷
 
+**Study of the Impact of the COVID-19 Pandemic on Atmospheric Pollution in Selected Areas of Athens, Greece**  
+ *Department of Physics, National and Kapodistrian University of Athens (NKUA)*  
+ [www.phys.uoa.gr](https://www.phys.uoa.gr)
 
-Study of the Impact of the COVID-19 Pandemic on Atmospheric Pollution in Selected Areas of Athens, Greece [Department of Physics NKUA](https://www.phys.uoa.gr)
+---
 
-The nationwide lockdown in Greece, implemented to flatten the COVID-19 pandemic curve, resulted in a significant reduction of anthropogenic emission sources. This study aims to highlight the impact of the COVID-19 pandemic on atmospheric pollution. The pandemic served as a real-life "simulation" of reduced anthropogenic pollutant levels.
+##  Overview
 
------
-# Eισαγωγή:
+The nationwide lockdown in Greece, implemented to flatten the COVID-19 curve, led to a **significant reduction in anthropogenic emissions**.  
+This study investigates the **impact of the pandemic on atmospheric pollution levels**, using it as a **real-life "simulation"** of reduced human activity.
 
-Πραγματοποιείται  ανάλυση της Ατμοσφαιρικής ρύπανσης στην περιοχή της Αθήνας για την περίοδο του Lockdown (22 Mαρτίου - 4 Μαΐου 2020).
+---
 
-## Διαστήματα Μελέτης:
+##  Study Periods
 
-Επιλέγουμε το πρώτο  Lockdown καθώς σε αυτό παρατηρήθηκε μείωση κυκλοφορίας 49.5% σε σχέση με τον αντίστοιχο μήνα του 2019 στο κέντρο της Αθήνας. Επομένως διακρίνουμε τις εξής περιόδους.
+We focus on the **first nationwide lockdown**, during which traffic in central Athens dropped by **49.5%** compared to the same period in 2019.
 
-1. Pre Lockdown: 1-22 Μαρτίου 
-2.  Lockdown: 22-4 Μαΐου 
-3. Post Lockdown: 4-31 Μαΐου
+We distinguish the following time periods:
 
+1. **Pre-Lockdown**: March 1 – 22, 2020  
+2. **Lockdown**: March 22 – May 4, 2020  
+3. **Post-Lockdown**: May 4 – 31, 2020
 
+---
 
-## Σταθμοί Μελέτης:
+##  Monitoring Stations
 
-1. Πατησίων  (-40.2% traffic reduction  at Patision)
-2. Αθηνάς  (-46.6% traffic reduction  at Leof. Panepistimiou and 42.7% at Leof. Stadiou)
-3. Γεωπονικής  
+The following air quality stations were selected for analysis:
 
+- **Patision**  
+  -  Traffic reduction: −40.2%
+- **Athinas**  
+  -  Traffic reduction: −46.6% on Panepistimiou Ave.  
+  -  Traffic reduction: −42.7% on Stadiou Ave.
+- **Geoponiki** *(near the Agricultural University)*
 
-Eπιλέξαμε τους πιο πάνω σταθμούς, καθώς αυτοί κατέγραψαν ένα ικανό πλήθος μετρήσεων για την περίοδο ενδιαφέροντος και βρίσκονται στο κέντρο της Αθήνας όπου επηρεάζεται σημαντικά από την κυκλοφορία.
+**Selection criteria:**
+
+- High data availability during the study period
+- Central Athens locations, significantly affected by traffic emissions
+
+---
+
+##  Goal
+
+To evaluate changes in atmospheric pollution levels in Athens during the COVID-19 lockdown, providing insight into the **role of traffic and human activity** in urban air quality.
+
+---
+
+## 📁 Repository Structure *(suggested)*
 
