@@ -43,12 +43,19 @@ The following air quality stations were selected for analysis:
 - High data availability during the study period
 - Central Athens locations, significantly affected by traffic emissions
 
----
-
-##  Goal
-
-To evaluate changes in atmospheric pollution levels in Athens during the COVID-19 lockdown, providing insight into the **role of traffic and human activity** in urban air quality.
 
 ---
+### Example Figures
+
+<table>
+  <tr>
+    <td><img src="Figure/PAT(O3).png" alt="Figure 1" width="300"></td>
+    <td><img src="Figure/H_PAT(O3).png alt="Figure 2" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Figure 1: Caption for first figure</td>
+    <td align="center">Figure 2: Caption for second figure</td>
+  </tr>
+</table>
 
 
