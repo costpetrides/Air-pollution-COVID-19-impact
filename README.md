@@ -49,5 +49,4 @@ To evaluate changes in atmospheric pollution levels in Athens during the COVID-1
 
 ---
 
-## 📁 Repository Structure *(suggested)*
 
