@@ -34,7 +34,7 @@ The following air quality stations were selected for analysis:
 - **Athinas**  
   -  Traffic reduction: −46.6% on Panepistimiou Ave.  
   -  Traffic reduction: −42.7% on Stadiou Ave.
-- **Geoponiki** *(near the Agricultural University)*
+- **Geoponiki** 
 
 **Selection criteria:**
 
